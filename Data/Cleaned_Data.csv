@@ -1,0 +1,411 @@
+category,service,year,quarter,spending
+Outpatient services,Physician services,2004,Q1,306.6
+Outpatient services,Dental services,2004,Q1,81.0
+Outpatient services,Paramedical services,2004,Q1,188.0
+Hospital and nursing home services,Hospitals,2004,Q1,518.4
+Hospital and nursing home services,Nursing homes,2004,Q1,108.0
+Outpatient services,Physician services,2004,Q2,311.7
+Outpatient services,Dental services,2004,Q2,82.5
+Outpatient services,Paramedical services,2004,Q2,190.8
+Hospital and nursing home services,Hospitals,2004,Q2,530.9
+Hospital and nursing home services,Nursing homes,2004,Q2,110.1
+Outpatient services,Physician services,2004,Q3,316.7
+Outpatient services,Dental services,2004,Q3,84.2
+Outpatient services,Paramedical services,2004,Q3,193.7
+Hospital and nursing home services,Hospitals,2004,Q3,544.6
+Hospital and nursing home services,Nursing homes,2004,Q3,113.3
+Outpatient services,Physician services,2004,Q4,321.9
+Outpatient services,Dental services,2004,Q4,85.4
+Outpatient services,Paramedical services,2004,Q4,194.5
+Hospital and nursing home services,Hospitals,2004,Q4,557.6
+Hospital and nursing home services,Nursing homes,2004,Q4,115.7
+Outpatient services,Physician services,2005,Q1,327.6
+Outpatient services,Dental services,2005,Q1,86.7
+Outpatient services,Paramedical services,2005,Q1,198.7
+Hospital and nursing home services,Hospitals,2005,Q1,563.6
+Hospital and nursing home services,Nursing homes,2005,Q1,115.3
+Outpatient services,Physician services,2005,Q2,332.3
+Outpatient services,Dental services,2005,Q2,87.7
+Outpatient services,Paramedical services,2005,Q2,201.1
+Hospital and nursing home services,Hospitals,2005,Q2,570.2
+Hospital and nursing home services,Nursing homes,2005,Q2,118.1
+Outpatient services,Physician services,2005,Q3,336.3
+Outpatient services,Dental services,2005,Q3,88.1
+Outpatient services,Paramedical services,2005,Q3,203.7
+Hospital and nursing home services,Hospitals,2005,Q3,584.9
+Hospital and nursing home services,Nursing homes,2005,Q3,120.2
+Outpatient services,Physician services,2005,Q4,339.5
+Outpatient services,Dental services,2005,Q4,89.0
+Outpatient services,Paramedical services,2005,Q4,206.9
+Hospital and nursing home services,Hospitals,2005,Q4,589.9
+Hospital and nursing home services,Nursing homes,2005,Q4,122.3
+Outpatient services,Physician services,2006,Q1,341.8
+Outpatient services,Dental services,2006,Q1,89.7
+Outpatient services,Paramedical services,2006,Q1,207.7
+Hospital and nursing home services,Hospitals,2006,Q1,599.5
+Hospital and nursing home services,Nursing homes,2006,Q1,123.6
+Outpatient services,Physician services,2006,Q2,347.1
+Outpatient services,Dental services,2006,Q2,91.0
+Outpatient services,Paramedical services,2006,Q2,209.4
+Hospital and nursing home services,Hospitals,2006,Q2,611.3
+Hospital and nursing home services,Nursing homes,2006,Q2,123.6
+Outpatient services,Physician services,2006,Q3,351.7
+Outpatient services,Dental services,2006,Q3,92.0
+Outpatient services,Paramedical services,2006,Q3,211.5
+Hospital and nursing home services,Hospitals,2006,Q3,621.8
+Hospital and nursing home services,Nursing homes,2006,Q3,124.4
+Outpatient services,Physician services,2006,Q4,353.2
+Outpatient services,Dental services,2006,Q4,93.4
+Outpatient services,Paramedical services,2006,Q4,214.2
+Hospital and nursing home services,Hospitals,2006,Q4,635.6
+Hospital and nursing home services,Nursing homes,2006,Q4,125.1
+Outpatient services,Physician services,2007,Q1,361.9
+Outpatient services,Dental services,2007,Q1,94.9
+Outpatient services,Paramedical services,2007,Q1,217.9
+Hospital and nursing home services,Hospitals,2007,Q1,644.8
+Hospital and nursing home services,Nursing homes,2007,Q1,129.8
+Outpatient services,Physician services,2007,Q2,362.4
+Outpatient services,Dental services,2007,Q2,96.0
+Outpatient services,Paramedical services,2007,Q2,222.1
+Hospital and nursing home services,Hospitals,2007,Q2,652.0
+Hospital and nursing home services,Nursing homes,2007,Q2,132.0
+Outpatient services,Physician services,2007,Q3,366.6
+Outpatient services,Dental services,2007,Q3,97.7
+Outpatient services,Paramedical services,2007,Q3,225.7
+Hospital and nursing home services,Hospitals,2007,Q3,662.4
+Hospital and nursing home services,Nursing homes,2007,Q3,135.6
+Outpatient services,Physician services,2007,Q4,371.8
+Outpatient services,Dental services,2007,Q4,99.4
+Outpatient services,Paramedical services,2007,Q4,228.8
+Hospital and nursing home services,Hospitals,2007,Q4,673.2
+Hospital and nursing home services,Nursing homes,2007,Q4,137.9
+Outpatient services,Physician services,2008,Q1,377.5
+Outpatient services,Dental services,2008,Q1,100.6
+Outpatient services,Paramedical services,2008,Q1,231.9
+Hospital and nursing home services,Hospitals,2008,Q1,685.0
+Hospital and nursing home services,Nursing homes,2008,Q1,140.4
+Outpatient services,Physician services,2008,Q2,382.9
+Outpatient services,Dental services,2008,Q2,101.4
+Outpatient services,Paramedical services,2008,Q2,235.4
+Hospital and nursing home services,Hospitals,2008,Q2,686.3
+Hospital and nursing home services,Nursing homes,2008,Q2,142.0
+Outpatient services,Physician services,2008,Q3,388.1
+Outpatient services,Dental services,2008,Q3,102.3
+Outpatient services,Paramedical services,2008,Q3,239.1
+Hospital and nursing home services,Hospitals,2008,Q3,691.2
+Hospital and nursing home services,Nursing homes,2008,Q3,141.5
+Outpatient services,Physician services,2008,Q4,391.6
+Outpatient services,Dental services,2008,Q4,102.8
+Outpatient services,Paramedical services,2008,Q4,242.3
+Hospital and nursing home services,Hospitals,2008,Q4,696.8
+Hospital and nursing home services,Nursing homes,2008,Q4,142.4
+Outpatient services,Physician services,2009,Q1,392.3
+Outpatient services,Dental services,2009,Q1,103.3
+Outpatient services,Paramedical services,2009,Q1,244.5
+Hospital and nursing home services,Hospitals,2009,Q1,716.6
+Hospital and nursing home services,Nursing homes,2009,Q1,143.5
+Outpatient services,Physician services,2009,Q2,397.9
+Outpatient services,Dental services,2009,Q2,101.8
+Outpatient services,Paramedical services,2009,Q2,248.3
+Hospital and nursing home services,Hospitals,2009,Q2,731.9
+Hospital and nursing home services,Nursing homes,2009,Q2,147.6
+Outpatient services,Physician services,2009,Q3,399.5
+Outpatient services,Dental services,2009,Q3,101.2
+Outpatient services,Paramedical services,2009,Q3,251.8
+Hospital and nursing home services,Hospitals,2009,Q3,745.6
+Hospital and nursing home services,Nursing homes,2009,Q3,149.7
+Outpatient services,Physician services,2009,Q4,398.8
+Outpatient services,Dental services,2009,Q4,102.0
+Outpatient services,Paramedical services,2009,Q4,252.4
+Hospital and nursing home services,Hospitals,2009,Q4,751.2
+Hospital and nursing home services,Nursing homes,2009,Q4,151.1
+Outpatient services,Physician services,2010,Q1,404.2
+Outpatient services,Dental services,2010,Q1,102.7
+Outpatient services,Paramedical services,2010,Q1,254.1
+Hospital and nursing home services,Hospitals,2010,Q1,750.0
+Hospital and nursing home services,Nursing homes,2010,Q1,152.4
+Outpatient services,Physician services,2010,Q2,405.9
+Outpatient services,Dental services,2010,Q2,103.8
+Outpatient services,Paramedical services,2010,Q2,258.3
+Hospital and nursing home services,Hospitals,2010,Q2,764.3
+Hospital and nursing home services,Nursing homes,2010,Q2,154.8
+Outpatient services,Physician services,2010,Q3,417.1
+Outpatient services,Dental services,2010,Q3,105.4
+Outpatient services,Paramedical services,2010,Q3,262.2
+Hospital and nursing home services,Hospitals,2010,Q3,779.5
+Hospital and nursing home services,Nursing homes,2010,Q3,154.7
+Outpatient services,Physician services,2010,Q4,414.9
+Outpatient services,Dental services,2010,Q4,105.9
+Outpatient services,Paramedical services,2010,Q4,263.8
+Hospital and nursing home services,Hospitals,2010,Q4,785.7
+Hospital and nursing home services,Nursing homes,2010,Q4,158.5
+Outpatient services,Physician services,2011,Q1,422.4
+Outpatient services,Dental services,2011,Q1,105.4
+Outpatient services,Paramedical services,2011,Q1,266.7
+Hospital and nursing home services,Hospitals,2011,Q1,790.1
+Hospital and nursing home services,Nursing homes,2011,Q1,156.8
+Outpatient services,Physician services,2011,Q2,425.1
+Outpatient services,Dental services,2011,Q2,105.5
+Outpatient services,Paramedical services,2011,Q2,268.7
+Hospital and nursing home services,Hospitals,2011,Q2,795.8
+Hospital and nursing home services,Nursing homes,2011,Q2,158.3
+Outpatient services,Physician services,2011,Q3,427.9
+Outpatient services,Dental services,2011,Q3,105.5
+Outpatient services,Paramedical services,2011,Q3,270.3
+Hospital and nursing home services,Hospitals,2011,Q3,792.5
+Hospital and nursing home services,Nursing homes,2011,Q3,159.1
+Outpatient services,Physician services,2011,Q4,430.8
+Outpatient services,Dental services,2011,Q4,106.7
+Outpatient services,Paramedical services,2011,Q4,274.0
+Hospital and nursing home services,Hospitals,2011,Q4,809.4
+Hospital and nursing home services,Nursing homes,2011,Q4,157.3
+Outpatient services,Physician services,2012,Q1,437.6
+Outpatient services,Dental services,2012,Q1,108.3
+Outpatient services,Paramedical services,2012,Q1,279.7
+Hospital and nursing home services,Hospitals,2012,Q1,825.4
+Hospital and nursing home services,Nursing homes,2012,Q1,160.2
+Outpatient services,Physician services,2012,Q2,441.7
+Outpatient services,Dental services,2012,Q2,107.9
+Outpatient services,Paramedical services,2012,Q2,281.0
+Hospital and nursing home services,Hospitals,2012,Q2,822.8
+Hospital and nursing home services,Nursing homes,2012,Q2,160.7
+Outpatient services,Physician services,2012,Q3,437.1
+Outpatient services,Dental services,2012,Q3,106.5
+Outpatient services,Paramedical services,2012,Q3,280.5
+Hospital and nursing home services,Hospitals,2012,Q3,837.3
+Hospital and nursing home services,Nursing homes,2012,Q3,162.0
+Outpatient services,Physician services,2012,Q4,448.2
+Outpatient services,Dental services,2012,Q4,105.9
+Outpatient services,Paramedical services,2012,Q4,284.9
+Hospital and nursing home services,Hospitals,2012,Q4,835.8
+Hospital and nursing home services,Nursing homes,2012,Q4,161.7
+Outpatient services,Physician services,2013,Q1,440.4
+Outpatient services,Dental services,2013,Q1,105.7
+Outpatient services,Paramedical services,2013,Q1,284.6
+Hospital and nursing home services,Hospitals,2013,Q1,845.2
+Hospital and nursing home services,Nursing homes,2013,Q1,163.6
+Outpatient services,Physician services,2013,Q2,444.3
+Outpatient services,Dental services,2013,Q2,109.2
+Outpatient services,Paramedical services,2013,Q2,286.3
+Hospital and nursing home services,Hospitals,2013,Q2,851.6
+Hospital and nursing home services,Nursing homes,2013,Q2,162.6
+Outpatient services,Physician services,2013,Q3,443.1
+Outpatient services,Dental services,2013,Q3,110.1
+Outpatient services,Paramedical services,2013,Q3,289.7
+Hospital and nursing home services,Hospitals,2013,Q3,859.7
+Hospital and nursing home services,Nursing homes,2013,Q3,163.8
+Outpatient services,Physician services,2013,Q4,451.6
+Outpatient services,Dental services,2013,Q4,109.9
+Outpatient services,Paramedical services,2013,Q4,293.5
+Hospital and nursing home services,Hospitals,2013,Q4,874.3
+Hospital and nursing home services,Nursing homes,2013,Q4,165.9
+Outpatient services,Physician services,2014,Q1,451.2
+Outpatient services,Dental services,2014,Q1,110.0
+Outpatient services,Paramedical services,2014,Q1,292.4
+Hospital and nursing home services,Hospitals,2014,Q1,866.6
+Hospital and nursing home services,Nursing homes,2014,Q1,165.6
+Outpatient services,Physician services,2014,Q2,460.8
+Outpatient services,Dental services,2014,Q2,110.9
+Outpatient services,Paramedical services,2014,Q2,301.1
+Hospital and nursing home services,Hospitals,2014,Q2,885.7
+Hospital and nursing home services,Nursing homes,2014,Q2,167.7
+Outpatient services,Physician services,2014,Q3,472.4
+Outpatient services,Dental services,2014,Q3,113.0
+Outpatient services,Paramedical services,2014,Q3,306.5
+Hospital and nursing home services,Hospitals,2014,Q3,904.7
+Hospital and nursing home services,Nursing homes,2014,Q3,171.0
+Outpatient services,Physician services,2014,Q4,480.3
+Outpatient services,Dental services,2014,Q4,114.7
+Outpatient services,Paramedical services,2014,Q4,312.5
+Hospital and nursing home services,Hospitals,2014,Q4,921.5
+Hospital and nursing home services,Nursing homes,2014,Q4,173.1
+Outpatient services,Physician services,2015,Q1,480.9
+Outpatient services,Dental services,2015,Q1,114.3
+Outpatient services,Paramedical services,2015,Q1,313.3
+Hospital and nursing home services,Hospitals,2015,Q1,941.9
+Hospital and nursing home services,Nursing homes,2015,Q1,173.5
+Outpatient services,Physician services,2015,Q2,488.8
+Outpatient services,Dental services,2015,Q2,115.9
+Outpatient services,Paramedical services,2015,Q2,318.2
+Hospital and nursing home services,Hospitals,2015,Q2,948.3
+Hospital and nursing home services,Nursing homes,2015,Q2,174.7
+Outpatient services,Physician services,2015,Q3,509.0
+Outpatient services,Dental services,2015,Q3,119.2
+Outpatient services,Paramedical services,2015,Q3,326.5
+Hospital and nursing home services,Hospitals,2015,Q3,952.3
+Hospital and nursing home services,Nursing homes,2015,Q3,175.8
+Outpatient services,Physician services,2015,Q4,505.8
+Outpatient services,Dental services,2015,Q4,120.3
+Outpatient services,Paramedical services,2015,Q4,328.9
+Hospital and nursing home services,Hospitals,2015,Q4,955.2
+Hospital and nursing home services,Nursing homes,2015,Q4,176.2
+Outpatient services,Physician services,2016,Q1,518.2
+Outpatient services,Dental services,2016,Q1,122.9
+Outpatient services,Paramedical services,2016,Q1,334.2
+Hospital and nursing home services,Hospitals,2016,Q1,973.6
+Hospital and nursing home services,Nursing homes,2016,Q1,178.9
+Outpatient services,Physician services,2016,Q2,527.2
+Outpatient services,Dental services,2016,Q2,124.0
+Outpatient services,Paramedical services,2016,Q2,337.4
+Hospital and nursing home services,Hospitals,2016,Q2,994.1
+Hospital and nursing home services,Nursing homes,2016,Q2,182.7
+Outpatient services,Physician services,2016,Q3,524.3
+Outpatient services,Dental services,2016,Q3,123.4
+Outpatient services,Paramedical services,2016,Q3,340.9
+Hospital and nursing home services,Hospitals,2016,Q3,993.7
+Hospital and nursing home services,Nursing homes,2016,Q3,183.3
+Outpatient services,Physician services,2016,Q4,536.4
+Outpatient services,Dental services,2016,Q4,124.9
+Outpatient services,Paramedical services,2016,Q4,345.2
+Hospital and nursing home services,Hospitals,2016,Q4,1009.1
+Hospital and nursing home services,Nursing homes,2016,Q4,184.2
+Outpatient services,Physician services,2017,Q1,547.6
+Outpatient services,Dental services,2017,Q1,127.7
+Outpatient services,Paramedical services,2017,Q1,352.2
+Hospital and nursing home services,Hospitals,2017,Q1,1012.1
+Hospital and nursing home services,Nursing homes,2017,Q1,183.8
+Outpatient services,Physician services,2017,Q2,548.3
+Outpatient services,Dental services,2017,Q2,128.3
+Outpatient services,Paramedical services,2017,Q2,354.0
+Hospital and nursing home services,Hospitals,2017,Q2,1008.6
+Hospital and nursing home services,Nursing homes,2017,Q2,183.2
+Outpatient services,Physician services,2017,Q3,554.9
+Outpatient services,Dental services,2017,Q3,129.0
+Outpatient services,Paramedical services,2017,Q3,356.8
+Hospital and nursing home services,Hospitals,2017,Q3,1027.6
+Hospital and nursing home services,Nursing homes,2017,Q3,186.5
+Outpatient services,Physician services,2017,Q4,555.0
+Outpatient services,Dental services,2017,Q4,132.2
+Outpatient services,Paramedical services,2017,Q4,361.8
+Hospital and nursing home services,Hospitals,2017,Q4,1042.5
+Hospital and nursing home services,Nursing homes,2017,Q4,189.1
+Outpatient services,Physician services,2018,Q1,569.8
+Outpatient services,Dental services,2018,Q1,134.8
+Outpatient services,Paramedical services,2018,Q1,367.7
+Hospital and nursing home services,Hospitals,2018,Q1,1049.8
+Hospital and nursing home services,Nursing homes,2018,Q1,187.4
+Outpatient services,Physician services,2018,Q2,568.7
+Outpatient services,Dental services,2018,Q2,133.8
+Outpatient services,Paramedical services,2018,Q2,372.2
+Hospital and nursing home services,Hospitals,2018,Q2,1069.3
+Hospital and nursing home services,Nursing homes,2018,Q2,190.0
+Outpatient services,Physician services,2018,Q3,571.6
+Outpatient services,Dental services,2018,Q3,137.3
+Outpatient services,Paramedical services,2018,Q3,378.5
+Hospital and nursing home services,Hospitals,2018,Q3,1089.9
+Hospital and nursing home services,Nursing homes,2018,Q3,191.7
+Outpatient services,Physician services,2018,Q4,576.3
+Outpatient services,Dental services,2018,Q4,136.9
+Outpatient services,Paramedical services,2018,Q4,381.9
+Hospital and nursing home services,Hospitals,2018,Q4,1079.8
+Hospital and nursing home services,Nursing homes,2018,Q4,191.4
+Outpatient services,Physician services,2019,Q1,582.6
+Outpatient services,Dental services,2019,Q1,137.3
+Outpatient services,Paramedical services,2019,Q1,384.9
+Hospital and nursing home services,Hospitals,2019,Q1,1119.9
+Hospital and nursing home services,Nursing homes,2019,Q1,196.6
+Outpatient services,Physician services,2019,Q2,591.1
+Outpatient services,Dental services,2019,Q2,141.4
+Outpatient services,Paramedical services,2019,Q2,393.2
+Hospital and nursing home services,Hospitals,2019,Q2,1133.0
+Hospital and nursing home services,Nursing homes,2019,Q2,195.6
+Outpatient services,Physician services,2019,Q3,601.5
+Outpatient services,Dental services,2019,Q3,143.6
+Outpatient services,Paramedical services,2019,Q3,399.1
+Hospital and nursing home services,Hospitals,2019,Q3,1143.3
+Hospital and nursing home services,Nursing homes,2019,Q3,197.2
+Outpatient services,Physician services,2019,Q4,613.1
+Outpatient services,Dental services,2019,Q4,146.0
+Outpatient services,Paramedical services,2019,Q4,409.1
+Hospital and nursing home services,Hospitals,2019,Q4,1162.3
+Hospital and nursing home services,Nursing homes,2019,Q4,198.8
+Outpatient services,Physician services,2020,Q1,606.4
+Outpatient services,Dental services,2020,Q1,135.5
+Outpatient services,Paramedical services,2020,Q1,404.3
+Hospital and nursing home services,Hospitals,2020,Q1,1099.9
+Hospital and nursing home services,Nursing homes,2020,Q1,197.4
+Outpatient services,Physician services,2020,Q2,494.8
+Outpatient services,Dental services,2020,Q2,88.2
+Outpatient services,Paramedical services,2020,Q2,337.3
+Hospital and nursing home services,Hospitals,2020,Q2,954.0
+Hospital and nursing home services,Nursing homes,2020,Q2,183.6
+Outpatient services,Physician services,2020,Q3,579.8
+Outpatient services,Dental services,2020,Q3,123.0
+Outpatient services,Paramedical services,2020,Q3,399.9
+Hospital and nursing home services,Hospitals,2020,Q3,1124.3
+Hospital and nursing home services,Nursing homes,2020,Q3,181.1
+Outpatient services,Physician services,2020,Q4,599.5
+Outpatient services,Dental services,2020,Q4,128.8
+Outpatient services,Paramedical services,2020,Q4,420.5
+Hospital and nursing home services,Hospitals,2020,Q4,1171.7
+Hospital and nursing home services,Nursing homes,2020,Q4,186.8
+Outpatient services,Physician services,2021,Q1,609.4
+Outpatient services,Dental services,2021,Q1,134.1
+Outpatient services,Paramedical services,2021,Q1,419.0
+Hospital and nursing home services,Hospitals,2021,Q1,1186.5
+Hospital and nursing home services,Nursing homes,2021,Q1,184.8
+Outpatient services,Physician services,2021,Q2,628.8
+Outpatient services,Dental services,2021,Q2,147.5
+Outpatient services,Paramedical services,2021,Q2,428.8
+Hospital and nursing home services,Hospitals,2021,Q2,1227.7
+Hospital and nursing home services,Nursing homes,2021,Q2,190.2
+Outpatient services,Physician services,2021,Q3,643.2
+Outpatient services,Dental services,2021,Q3,148.3
+Outpatient services,Paramedical services,2021,Q3,444.8
+Hospital and nursing home services,Hospitals,2021,Q3,1250.1
+Hospital and nursing home services,Nursing homes,2021,Q3,191.2
+Outpatient services,Physician services,2021,Q4,655.8
+Outpatient services,Dental services,2021,Q4,152.8
+Outpatient services,Paramedical services,2021,Q4,453.3
+Hospital and nursing home services,Hospitals,2021,Q4,1266.8
+Hospital and nursing home services,Nursing homes,2021,Q4,193.8
+Outpatient services,Physician services,2022,Q1,662.4
+Outpatient services,Dental services,2022,Q1,158.6
+Outpatient services,Paramedical services,2022,Q1,464.2
+Hospital and nursing home services,Hospitals,2022,Q1,1272.1
+Hospital and nursing home services,Nursing homes,2022,Q1,196.4
+Outpatient services,Physician services,2022,Q2,672.2
+Outpatient services,Dental services,2022,Q2,160.4
+Outpatient services,Paramedical services,2022,Q2,474.0
+Hospital and nursing home services,Hospitals,2022,Q2,1267.3
+Hospital and nursing home services,Nursing homes,2022,Q2,198.8
+Outpatient services,Physician services,2022,Q3,681.4
+Outpatient services,Dental services,2022,Q3,163.4
+Outpatient services,Paramedical services,2022,Q3,476.4
+Hospital and nursing home services,Hospitals,2022,Q3,1309.3
+Hospital and nursing home services,Nursing homes,2022,Q3,204.8
+Outpatient services,Physician services,2022,Q4,692.3
+Outpatient services,Dental services,2022,Q4,165.7
+Outpatient services,Paramedical services,2022,Q4,488.6
+Hospital and nursing home services,Hospitals,2022,Q4,1344.8
+Hospital and nursing home services,Nursing homes,2022,Q4,209.5
+Outpatient services,Physician services,2023,Q1,717.7
+Outpatient services,Dental services,2023,Q1,170.7
+Outpatient services,Paramedical services,2023,Q1,514.3
+Hospital and nursing home services,Hospitals,2023,Q1,1360.6
+Hospital and nursing home services,Nursing homes,2023,Q1,220.0
+Outpatient services,Physician services,2023,Q2,733.5
+Outpatient services,Dental services,2023,Q2,171.3
+Outpatient services,Paramedical services,2023,Q2,515.4
+Hospital and nursing home services,Hospitals,2023,Q2,1384.4
+Hospital and nursing home services,Nursing homes,2023,Q2,225.3
+Outpatient services,Physician services,2023,Q3,736.8
+Outpatient services,Dental services,2023,Q3,173.3
+Outpatient services,Paramedical services,2023,Q3,534.1
+Hospital and nursing home services,Hospitals,2023,Q3,1398.0
+Hospital and nursing home services,Nursing homes,2023,Q3,226.3
+Outpatient services,Physician services,2023,Q4,751.4
+Outpatient services,Dental services,2023,Q4,175.4
+Outpatient services,Paramedical services,2023,Q4,554.3
+Hospital and nursing home services,Hospitals,2023,Q4,1432.2
+Hospital and nursing home services,Nursing homes,2023,Q4,235.5
+Outpatient services,Physician services,2024,Q1,765.7
+Outpatient services,Dental services,2024,Q1,180.2
+Outpatient services,Paramedical services,2024,Q1,573.9
+Hospital and nursing home services,Hospitals,2024,Q1,1470.6
+Hospital and nursing home services,Nursing homes,2024,Q1,243.2
+Outpatient services,Physician services,2024,Q2,785.6
+Outpatient services,Dental services,2024,Q2,183.9
+Outpatient services,Paramedical services,2024,Q2,585.1
+Hospital and nursing home services,Hospitals,2024,Q2,1475.0
+Hospital and nursing home services,Nursing homes,2024,Q2,244.7
