@@ -8,7 +8,7 @@ The two attached PDFs include both the Prompt and Deliverable for the case study
 The necessary data is located in the `Data` folder and includes both a cleaned dataset to be used for your model as well as the original data of healthcare services from the Bureau of Economic Analysis in the U.S. Department of Commerce. 
 
 ## Scripts 
-The necessary scripts are located in the `Scripts` folder and includes both the scripts needed to clean the original data and perform 
+The necessary scripts are located in the `Scripts` folder and includes both the scripts needed to clean the original data and perform trend analysis. 
 
 ## Reference Materials 
 The 'Reference Materials' folder contains helpful resources related to the context of the economic issue and tips for time-series trend analysis and calculating moving averages. 
