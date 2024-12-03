@@ -11,4 +11,4 @@ The necessary data is located in the `Data` folder and includes both a cleaned d
 The necessary scripts are located in the `Scripts` folder and includes both the scripts needed to clean the original data and perform trend analysis. 
 
 ## Reference Materials 
-The 'Reference Materials' folder contains helpful resources related to the context of the economic issue and tips for time-series trend analysis and calculating moving averages. 
+The `Reference Materials` folder contains helpful resources related to the context of the economic issue and tips for time-series trend analysis and calculating moving averages. 
